@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": 300,
+      "rating": 4.5,
+      "title": "Наслаждение",
+      "image": "./src/assets/pizza1.png",
+      "ingridents": [
+        "Салями",
+        "Pуккола",
+        "Помидоры",
+        "Оливки"
+      ],
+      "category": "pizza"
+    },
+    {
+      "id": 2,
+      "price": 250,
+      "rating": 4.5,
+      "title": "Такос",
+      "image": "./src/assets/pizza2.png",
+      "ingridents": [
+        "Острый",
+        "перец",
+        "лепёшка",
+        "фарш"
+      ],
+      "category": "takos"
+    },
+    {
+      "id": 3,
+      "price": 320,
+      "rating": 4.5,
+      "title": "Аццки острая",
+      "image": "./src/assets/pizza3.png",
+      "ingridents": [
+        "Острый соус",
+        "грибы",
+        "помидоры",
+        "оливки"
+      ],
+      "category": "salad"
+    },
+    {
+      "id": 4,
+      "price": 320,
+      "rating": 4.5,
+      "title": "Жаркое с сыром",
+      "image": "./src/assets/pizza4.png",
+      "ingridents": [
+        "Картофель",
+        "сыр",
+        "перец",
+        "фарш"
+      ],
+      "category": "pizza"
+    },
+    {
+      "id": 5,
+      "price": 320,
+      "rating": 4.5,
+      "title": "Аццки острая",
+      "image": "./src/assets/pizza5.png",
+      "ingridents": [
+        "Картофель",
+        "сыр",
+        "перец",
+        "фарш"
+      ],
+      "category": "takos"
+    },
+    {
+      "id": 6,
+      "price": 320,
+      "rating": 4.5,
+      "title": "Греческий салат",
+      "image": "./src/assets/pizza6.png",
+      "ingridents": [
+        "Картофель",
+        "сыр",
+        "перец",
+        "фарш"
+      ],
+      "category": "salad"
+    }
+  ],
+  "users": [
+    {
+      "email": "muhidinov@gmail.com",
+      "password": "$2a$10$ro.mKebNG2LQybUp5rzYVeu/.B2QT4GuW5BIwFWpuBSdxR.laKAL2",
+      "name": "Fahridin",
+      "id": 1
+    }
+  ]
+}
